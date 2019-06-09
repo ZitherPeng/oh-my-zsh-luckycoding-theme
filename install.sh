@@ -7,3 +7,4 @@ ln -f luckycoding.zsh-theme ~/.oh-my-zsh/custom/themes/luckycoding.zsh-theme
 
 echo "
 Done ! (the symlink is ~/.oh-my-zsh/custom/themes/luckycoding.zsh-theme)
+"
